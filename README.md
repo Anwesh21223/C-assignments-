@@ -1,5 +1,5 @@
 # C-assignments-
-Abstract: This repo is a list of self study assignments done by the author as part of his learing journey of the C programming language from K.N.king, assosiate professor of computer science at Georgia State University. 
+Abstract: This repo is a list of self study assignments done by the author as part of his learing journey of the C programming language from K.N.king, associate professor of computer science at Georgia State University. 
 
 
 
