@@ -13,7 +13,7 @@ Project status: "  Currently active "
 
 
 
-###### Helpful links: " https://archive.org/details/c-programming-a-modern-approach-2nd-ed-c-89-c-99-king-by/page/23/mode/2up "  " http://knking.com/ "   "   " https://www.gsu.edu/ "
+ Helpful links: " https://archive.org/details/c-programming-a-modern-approach-2nd-ed-c-89-c-99-king-by/page/23/mode/2up "  " http://knking.com/ "   "   " https://www.gsu.edu/ "
 
 Email: " apexwork46@gmail.com " 
 
