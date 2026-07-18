@@ -1,0 +1,1 @@
+Context- This section of the folder consist of the excersice of the lesson " Selection statements ". Selection statements in c are the type of statements which lets the program choose between different caculations to be performed with certain conditions are met. In this section, we deal specifically with caseadded statements and the swtich statements.
